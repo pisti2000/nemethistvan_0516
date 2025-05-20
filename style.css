@@ -48,16 +48,14 @@ button {
   font-size: 1rem;
   font-weight: bold;
   cursor: pointer;
-  transition: transform 0.2s ease, background 0.3s ease;
+
 }
 
 
 
 .response {
   margin-top: 2rem;
-  background-color: #1e293b;
   padding: 1rem;
-  border-left: 4px solid #38bdf8;
   border-radius: 6px;
   width: 100%;
   max-width: 500px;
